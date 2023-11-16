@@ -1,0 +1,26 @@
+body {
+  background-color:RosyBrown;
+}
+
+h1 {
+  color: default;
+  font-family: Serif;
+  text-align: center;
+}
+
+p {
+  font-family: Serif;
+  font-size: 20px;
+}
+.footer {
+  position: relative;
+  width: 100%;
+  background: grey;
+  min-height: 100px;
+  padding: 20px 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+} 
